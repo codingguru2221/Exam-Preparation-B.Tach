@@ -3,13 +3,18 @@
 ### Subjects & Syllabus
 1. Computer Networks
    - OSI Model, TCP/IP, Routing
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-5th-sem-cse-rgpv/)
 2. Software Engineering
    - SDLC, UML, Testing
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-5th-sem-cse-rgpv/)
 3. Theory of Computation
    - Automata, Grammars, Turing Machines
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-5th-sem-cse-rgpv/)
 4. Web Technologies
    - HTML, CSS, JavaScript, PHP
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-5th-sem-cse-rgpv/)
 5. Elective I (e.g., AI, IoT)
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-5th-sem-cse-rgpv/)
 
 ### Study Plan
 - Week 1-2: Computer Networks & Software Engineering

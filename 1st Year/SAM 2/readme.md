@@ -3,14 +3,19 @@
 ### Subjects & Syllabus
 1. Mathematics-II
    - Probability, Statistics, Complex Numbers
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 2. Chemistry for Computer Science
    - Organic, Inorganic, Physical Chemistry
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 3. Data Structures
    - Arrays, Linked Lists, Stacks, Queues, Trees
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 4. Environmental Science
    - Ecology, Pollution, Sustainability
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 5. Professional Ethics
    - Engineering Ethics, Social Responsibility
+   - [General Professional Ethics Resource](https://www.nspe.org/resources/ethics)
 
 ### Study Plan
 - Week 1-2: Mathematics & Chemistry basics

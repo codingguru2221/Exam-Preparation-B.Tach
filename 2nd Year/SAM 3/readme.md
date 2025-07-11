@@ -3,14 +3,19 @@
 ### Subjects & Syllabus
 1. Discrete Mathematics
    - Logic, Set Theory, Graph Theory
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-3rd-sem-cse-rgpv/)
 2. Digital Electronics
    - Logic Gates, Flip-Flops, Counters
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-3rd-sem-cse-rgpv/)
 3. Object Oriented Programming (C++)
    - Classes, Objects, Inheritance, Polymorphism
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-3rd-sem-cse-rgpv/)
 4. Computer Organization
    - CPU, Memory, I/O Devices
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-3rd-sem-cse-rgpv/)
 5. Principles of Management
    - Management Theories, Leadership
+   - [General Management Resource](https://www.mindtools.com/pages/main/newMN_HTE.htm)
 
 ### Study Plan
 - Week 1-2: Discrete Mathematics & Digital Electronics

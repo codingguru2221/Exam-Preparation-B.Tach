@@ -3,13 +3,18 @@
 ### Subjects & Syllabus
 1. Compiler Design
    - Lexical Analysis, Parsing, Code Generation
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-6th-sem-cse-rgpv/)
 2. Artificial Intelligence
    - Search, Reasoning, Machine Learning
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-6th-sem-cse-rgpv/)
 3. Mobile Computing
    - Wireless Networks, Protocols
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-6th-sem-cse-rgpv/)
 4. Data Mining
    - Clustering, Classification, Association
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-6th-sem-cse-rgpv/)
 5. Elective II (e.g., Cloud Computing)
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-btech-6th-sem-cse-rgpv/)
 
 ### Study Plan
 - Week 1-2: Compiler Design & AI basics

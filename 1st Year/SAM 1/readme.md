@@ -3,14 +3,19 @@
 ### Subjects & Syllabus
 1. Mathematics-I
    - Calculus, Linear Algebra, Differential Equations
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 2. Physics for Computer Science
    - Mechanics, Waves, Thermodynamics
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 3. Programming in C
    - Basics, Control Structures, Functions, Arrays, Pointers
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 4. Engineering Graphics
    - Drawing, CAD basics
+   - [RGPV Syllabus PDF](http://career-shiksha.com/post/syllabus-of-i-year-all-branch-all-subjects-rgpv/)
 5. English Communication
    - Grammar, Writing, Speaking
+   - [General Communication Skills Resource](https://www.skillsyouneed.com/)
 
 ### Study Plan
 - Week 1-2: Mathematics & Physics basics
