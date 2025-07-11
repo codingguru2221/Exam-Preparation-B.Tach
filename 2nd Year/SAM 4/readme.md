@@ -25,7 +25,23 @@
 - Week 9-10: Revision & Practice
 
 ### Study Material
-- "Operating System Concepts" by Silberschatz
-- "Database System Concepts" by Korth
-- "Introduction to Algorithms" by Cormen
-- "Microprocessors" by Ramesh Gaonkar
+"Operating System Concepts" by Silberschatz
+"Database System Concepts" by Korth
+"Introduction to Algorithms" by Cormen
+"Microprocessors" by Ramesh Gaonkar
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

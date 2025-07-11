@@ -24,6 +24,10 @@
 - Week 9-10: Revision & Viva Preparation
 
 ### Study Material
-- "Pattern Recognition and Machine Learning" by Bishop
-- "Cryptography and Network Security" by William Stallings
-- "Big Data" by Rajaraman
+"Pattern Recognition and Machine Learning" by Bishop
+"Cryptography and Network Security" by William Stallings
+"Big Data" by Rajaraman
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

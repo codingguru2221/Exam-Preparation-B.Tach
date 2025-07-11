@@ -25,7 +25,11 @@
 - Week 9-10: Revision & Mock Tests
 
 ### Study Material
-- NCERT Chemistry books
-- "Data Structures Using C" by Reema Thareja
-- Environmental Science by Erach Bharucha
-- Ethics in Engineering by Mike W. Martin
+NCERT Chemistry books
+"Data Structures Using C" by Reema Thareja
+Environmental Science by Erach Bharucha
+Ethics in Engineering by Mike W. Martin
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

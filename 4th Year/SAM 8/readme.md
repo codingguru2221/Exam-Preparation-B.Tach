@@ -24,6 +24,10 @@
 - Week 9-10: Final Revision & Interview Prep
 
 ### Study Material
-- "Cloud Computing" by Rajkumar Buyya
-- "Internet of Things" by Arshdeep Bahga
-- IEEE Papers, Online Courses
+"Cloud Computing" by Rajkumar Buyya
+"Internet of Things" by Arshdeep Bahga
+IEEE Papers, Online Courses
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

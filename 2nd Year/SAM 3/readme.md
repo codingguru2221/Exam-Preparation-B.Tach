@@ -25,7 +25,11 @@
 - Week 9-10: Revision & Sample Papers
 
 ### Study Material
-- "Discrete Mathematics" by Kenneth Rosen
-- "Digital Electronics" by Morris Mano
-- "Object Oriented Programming with C++" by E. Balagurusamy
-- "Computer Organization" by Carl Hamacher
+"Discrete Mathematics" by Kenneth Rosen
+"Digital Electronics" by Morris Mano
+"Object Oriented Programming with C++" by E. Balagurusamy
+"Computer Organization" by Carl Hamacher
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

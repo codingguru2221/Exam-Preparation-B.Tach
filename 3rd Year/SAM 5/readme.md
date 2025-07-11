@@ -24,7 +24,11 @@
 - Week 9-10: Revision & Projects
 
 ### Study Material
-- "Computer Networks" by Andrew S. Tanenbaum
-- "Software Engineering" by Ian Sommerville
-- "Introduction to Automata Theory" by Hopcroft
-- W3Schools, Mozilla Developer Network
+"Computer Networks" by Andrew S. Tanenbaum
+"Software Engineering" by Ian Sommerville
+"Introduction to Automata Theory" by Hopcroft
+W3Schools, Mozilla Developer Network
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

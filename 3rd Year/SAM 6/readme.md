@@ -24,7 +24,11 @@
 - Week 9-10: Revision & Mini Projects
 
 ### Study Material
-- "Compilers: Principles, Techniques, and Tools" by Aho
-- "Artificial Intelligence" by Stuart Russell
-- "Mobile Computing" by Asoke Talukder
-- "Data Mining" by Jiawei Han
+"Compilers: Principles, Techniques, and Tools" by Aho
+"Artificial Intelligence" by Stuart Russell
+"Mobile Computing" by Asoke Talukder
+"Data Mining" by Jiawei Han
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)

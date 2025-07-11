@@ -25,7 +25,11 @@
 - Week 9-10: Revision & Practice Papers
 
 ### Study Material
-- NCERT Mathematics & Physics books
-- "Let Us C" by Yashavant Kanetkar
-- Engineering Graphics by N.D. Bhatt
-- English Grammar by Wren & Martin
+NCERT Mathematics & Physics books
+"Let Us C" by Yashavant Kanetkar
+Engineering Graphics by N.D. Bhatt
+English Grammar by Wren & Martin
+
+### Useful Websites
+- [RGPV Online - Previous Exam Papers](https://www.rgpvonline.com/)
+- [Career Shiksha - Syllabus & Resources](https://career-shiksha.com/)
