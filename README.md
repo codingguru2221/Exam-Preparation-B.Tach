@@ -83,3 +83,4 @@ Each semester folder contains:
 ---
 
 **Good luck with your B.Tech journey! Prepare smart, stay motivated, and achieve your goals!**
+** Research by The Codex**
